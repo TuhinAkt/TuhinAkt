@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tuhin_Akthar
+- 👋 Hi, I’m @Tuhin_Akhtar
 - 👀 I’m interested in full stack
 - 🌱 I’m currently learning JS and its diffrent framework
 - 💞️ I’m looking to collaborate on ...
